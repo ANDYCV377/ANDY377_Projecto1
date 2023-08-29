@@ -1,3 +1,3 @@
 Hola. Esto es un fichero de lectura para nuestro repositorio.
 
-Esto es una modificación.
+Esto es una modificación que se hace para el actual repositorio.
