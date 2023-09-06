@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 # Nuestro empleo es el mejor.
 
-Estos son nuevos cambios que son rebase.
+Estos son nuevos cambios que son rebase y han sido comprobados exitosamente.
 
 Hola, de nuevo. Estoy haciendo unos progresos muy notables que serán interrumpidos.
 
