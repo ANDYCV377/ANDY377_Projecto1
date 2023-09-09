@@ -1,6 +1,6 @@
-# Historia de la rama master.
+# Historia de la rama main.
 
-Este curso inició hace dos semanas, el fichero se logró terminar y dentro de poco, va a acabar.
+Este curso se hizo entre agosto y septiembre del 2023.
 
 # Inicios de la rama.
 
