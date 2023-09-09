@@ -14,3 +14,7 @@ Se sigue modificando este ejemplo con lo que sea.
 Se han retomando progresos mediante el stash recientemente creado.
 
 Y, en realidad, esto es un gran fichero.
+
+## Modificación mediante GitHub.
+
+Esto es una modificación hecha desde la web.
